@@ -1,0 +1,50 @@
+html,
+body {
+  font-family: sans-serif;
+  margin: auto;
+  color: black;
+  text-align: center;
+  width: 95%;
+}
+
+.main-container {
+  padding: 15px;
+  height: 100%;
+  background-color: rgb(133, 179, 180);
+}
+
+.name {
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+.title {
+  margin-top: 0;
+}
+
+.image {
+  border: solid 3px rgb(0, 0, 0);
+  background-color: rgb(133, 179, 180);
+  padding: 10px;
+  margin: 15px auto;
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.image-caption {
+  margin: 25px 5px;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+}
+
+footer {
+  padding-bottom: 20px;
+}
